@@ -1,0 +1,6 @@
+[submodule "RecipeFrontend"]
+	path = RecipeFrontend
+	url = https://github.com/Somaraju080102/RecipeBrowsingProjectFrontEnd.git
+[submodule "RecipeBackend"]
+	path = RecipeBackend
+	url = https://github.com/Somaraju080102/RecipeBrowsingProjectBackEnd.git
